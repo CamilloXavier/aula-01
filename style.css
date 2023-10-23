@@ -1,0 +1,35 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+ul{
+    padding: 15px;
+    font-size: 20px;
+}
+
+li {
+    padding: 2px;
+}
+
+.paragrafo-padrao {
+    background-color: #F5F5F5;
+    width: 30%;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.paragrafo-destacado {
+    background-color: #F0CCE2;
+    width: 30%;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+
+.total {
+    padding-top: 30px;
+}
